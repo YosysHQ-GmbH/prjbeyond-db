@@ -1,0 +1,9 @@
+{
+    "families": {
+        "NG-ULTRA": {
+            "packages": ["FF-1760"],
+            "max_row" : 52,
+            "max_col" : 96
+        }
+    }
+}
