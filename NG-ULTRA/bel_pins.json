@@ -12,9 +12,17 @@
             "direction": "Input",
             "name": "DI"
         },
+        "DJ": {
+            "direction": "Input",
+            "name": "DJ"
+        },
         "DK": {
             "direction": "Output",
             "name": "DK"
+        },
+        "DO": {
+            "direction": "Output",
+            "name": "DO"
         },
         "DP": {
             "direction": "Output",
@@ -44,9 +52,21 @@
             "direction": "Input",
             "name": "L"
         },
+        "LD": {
+            "direction": "Output",
+            "name": "LD"
+        },
+        "LJ": {
+            "direction": "Input",
+            "name": "LJ"
+        },
         "LK": {
             "direction": "Output",
             "name": "LK"
+        },
+        "LO": {
+            "direction": "Output",
+            "name": "LO"
         },
         "LX": {
             "direction": "Output",
