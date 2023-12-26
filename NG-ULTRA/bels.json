@@ -1976,8 +1976,8 @@
     },
     "MESH": {},
     "SOCBank": {
-        "S1.SERVICE1": "SERVICE1",
-        "S1.SOCIF1": "SOCIF1"
+        "S1.SERVICE1": "Service",
+        "S1.SOCIF1": "SOCIF"
     },
     "TILE": {
         "S1.CY21": "CY",
