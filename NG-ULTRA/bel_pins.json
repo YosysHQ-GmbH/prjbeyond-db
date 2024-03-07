@@ -77,6 +77,144 @@
             "name": "R"
         }
     },
+    "BFF": {
+        "C": {
+            "direction": "Output",
+            "name": "C"
+        },
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "J": {
+            "direction": "Input",
+            "name": "J"
+        },
+        "K": {
+            "direction": "Output",
+            "name": "K"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        },
+        "P": {
+            "direction": "Output",
+            "name": "P"
+        },
+        "S": {
+            "direction": "Output",
+            "name": "S"
+        }
+    },
+    "BFR": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "BGC": {
+        "AI1": {
+            "direction": "Input",
+            "name": "AI1"
+        },
+        "AI2": {
+            "direction": "Input",
+            "name": "AI2"
+        },
+        "AI3": {
+            "direction": "Input",
+            "name": "AI3"
+        },
+        "AI4": {
+            "direction": "Input",
+            "name": "AI4"
+        },
+        "AI5": {
+            "direction": "Input",
+            "name": "AI5"
+        },
+        "AI6": {
+            "direction": "Input",
+            "name": "AI6"
+        },
+        "AO1": {
+            "direction": "Output",
+            "name": "AO1"
+        },
+        "AO2": {
+            "direction": "Output",
+            "name": "AO2"
+        },
+        "AO3": {
+            "direction": "Output",
+            "name": "AO3"
+        },
+        "AO4": {
+            "direction": "Output",
+            "name": "AO4"
+        },
+        "AO5": {
+            "direction": "Output",
+            "name": "AO5"
+        },
+        "AO6": {
+            "direction": "Output",
+            "name": "AO6"
+        },
+        "BI1": {
+            "direction": "Input",
+            "name": "BI1"
+        },
+        "BI2": {
+            "direction": "Input",
+            "name": "BI2"
+        },
+        "BI3": {
+            "direction": "Input",
+            "name": "BI3"
+        },
+        "BI4": {
+            "direction": "Input",
+            "name": "BI4"
+        },
+        "BI5": {
+            "direction": "Input",
+            "name": "BI5"
+        },
+        "BI6": {
+            "direction": "Input",
+            "name": "BI6"
+        },
+        "BO1": {
+            "direction": "Output",
+            "name": "BO1"
+        },
+        "BO2": {
+            "direction": "Output",
+            "name": "BO2"
+        },
+        "BO3": {
+            "direction": "Output",
+            "name": "BO3"
+        },
+        "BO4": {
+            "direction": "Output",
+            "name": "BO4"
+        },
+        "BO5": {
+            "direction": "Output",
+            "name": "BO5"
+        },
+        "BO6": {
+            "direction": "Output",
+            "name": "BO6"
+        }
+    },
     "CDC": {
         "ADRSTI": {
             "direction": "Input",
@@ -793,6 +931,36 @@
             "name": "VREALIGN_O"
         }
     },
+    "CSC": {
+        "C": {
+            "direction": "Output",
+            "name": "C"
+        },
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "J": {
+            "direction": "Input",
+            "name": "J"
+        },
+        "K": {
+            "direction": "Output",
+            "name": "K"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        },
+        "P": {
+            "direction": "Output",
+            "name": "P"
+        },
+        "S": {
+            "direction": "Output",
+            "name": "S"
+        }
+    },
     "CTX": {
         "BUSY_O": {
             "direction": "Output",
@@ -1331,6 +1499,128 @@
         "S4": {
             "direction": "Output",
             "name": "S4"
+        }
+    },
+    "DDE": {
+        "ADRSTI": {
+            "direction": "Input",
+            "name": "ADRSTI"
+        },
+        "ADRSTO": {
+            "direction": "Output",
+            "name": "ADRSTO"
+        },
+        "AI1": {
+            "direction": "Input",
+            "name": "AI1"
+        },
+        "AI2": {
+            "direction": "Input",
+            "name": "AI2"
+        },
+        "AI3": {
+            "direction": "Input",
+            "name": "AI3"
+        },
+        "AI4": {
+            "direction": "Input",
+            "name": "AI4"
+        },
+        "AI5": {
+            "direction": "Input",
+            "name": "AI5"
+        },
+        "AI6": {
+            "direction": "Input",
+            "name": "AI6"
+        },
+        "AO1": {
+            "direction": "Output",
+            "name": "AO1"
+        },
+        "AO2": {
+            "direction": "Output",
+            "name": "AO2"
+        },
+        "AO3": {
+            "direction": "Output",
+            "name": "AO3"
+        },
+        "AO4": {
+            "direction": "Output",
+            "name": "AO4"
+        },
+        "AO5": {
+            "direction": "Output",
+            "name": "AO5"
+        },
+        "AO6": {
+            "direction": "Output",
+            "name": "AO6"
+        },
+        "BDRSTI": {
+            "direction": "Input",
+            "name": "BDRSTI"
+        },
+        "BDRSTO": {
+            "direction": "Output",
+            "name": "BDRSTO"
+        },
+        "BI1": {
+            "direction": "Input",
+            "name": "BI1"
+        },
+        "BI2": {
+            "direction": "Input",
+            "name": "BI2"
+        },
+        "BI3": {
+            "direction": "Input",
+            "name": "BI3"
+        },
+        "BI4": {
+            "direction": "Input",
+            "name": "BI4"
+        },
+        "BI5": {
+            "direction": "Input",
+            "name": "BI5"
+        },
+        "BI6": {
+            "direction": "Input",
+            "name": "BI6"
+        },
+        "BO1": {
+            "direction": "Output",
+            "name": "BO1"
+        },
+        "BO2": {
+            "direction": "Output",
+            "name": "BO2"
+        },
+        "BO3": {
+            "direction": "Output",
+            "name": "BO3"
+        },
+        "BO4": {
+            "direction": "Output",
+            "name": "BO4"
+        },
+        "BO5": {
+            "direction": "Output",
+            "name": "BO5"
+        },
+        "BO6": {
+            "direction": "Output",
+            "name": "BO6"
+        },
+        "CK1": {
+            "direction": "Input",
+            "name": "CK1"
+        },
+        "CK2": {
+            "direction": "Input",
+            "name": "CK2"
         }
     },
     "DDFR": {
@@ -2873,6 +3163,26 @@
             "name": "Z9"
         }
     },
+    "FCI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "FCO": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
     "FIFO": {
         "I1": {
             "direction": "Input",
@@ -3161,6 +3471,114 @@
         "WRSTO": {
             "direction": "Output",
             "name": "WRSTO"
+        }
+    },
+    "GBC": {
+        "AI1": {
+            "direction": "Input",
+            "name": "AI1"
+        },
+        "AI2": {
+            "direction": "Input",
+            "name": "AI2"
+        },
+        "AI3": {
+            "direction": "Input",
+            "name": "AI3"
+        },
+        "AI4": {
+            "direction": "Input",
+            "name": "AI4"
+        },
+        "AI5": {
+            "direction": "Input",
+            "name": "AI5"
+        },
+        "AI6": {
+            "direction": "Input",
+            "name": "AI6"
+        },
+        "AO1": {
+            "direction": "Output",
+            "name": "AO1"
+        },
+        "AO2": {
+            "direction": "Output",
+            "name": "AO2"
+        },
+        "AO3": {
+            "direction": "Output",
+            "name": "AO3"
+        },
+        "AO4": {
+            "direction": "Output",
+            "name": "AO4"
+        },
+        "AO5": {
+            "direction": "Output",
+            "name": "AO5"
+        },
+        "AO6": {
+            "direction": "Output",
+            "name": "AO6"
+        },
+        "BI1": {
+            "direction": "Input",
+            "name": "BI1"
+        },
+        "BI2": {
+            "direction": "Input",
+            "name": "BI2"
+        },
+        "BI3": {
+            "direction": "Input",
+            "name": "BI3"
+        },
+        "BI4": {
+            "direction": "Input",
+            "name": "BI4"
+        },
+        "BI5": {
+            "direction": "Input",
+            "name": "BI5"
+        },
+        "BI6": {
+            "direction": "Input",
+            "name": "BI6"
+        },
+        "BO1": {
+            "direction": "Output",
+            "name": "BO1"
+        },
+        "BO2": {
+            "direction": "Output",
+            "name": "BO2"
+        },
+        "BO3": {
+            "direction": "Output",
+            "name": "BO3"
+        },
+        "BO4": {
+            "direction": "Output",
+            "name": "BO4"
+        },
+        "BO5": {
+            "direction": "Output",
+            "name": "BO5"
+        },
+        "BO6": {
+            "direction": "Output",
+            "name": "BO6"
+        }
+    },
+    "GCI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
         }
     },
     "GCK": {
@@ -3468,6 +3886,10 @@
             "direction": "Output",
             "name": "O3"
         },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
         "O5": {
             "direction": "Output",
             "name": "O5"
@@ -3479,6 +3901,20 @@
         "O7": {
             "direction": "Output",
             "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        }
+    },
+    "GSO": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
         }
     },
     "HEE": {
@@ -8170,6 +8606,10 @@
             "direction": "Input",
             "name": "I"
         },
+        "IO": {
+            "direction": "Input",
+            "name": "IO"
+        },
         "O": {
             "direction": "Output",
             "name": "O"
@@ -8177,6 +8617,54 @@
         "TE": {
             "direction": "Input",
             "name": "TE"
+        }
+    },
+    "IP": {
+        "C": {
+            "direction": "Input",
+            "name": "C"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "ITC": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "ITP": {
+        "C": {
+            "direction": "Input",
+            "name": "C"
+        },
+        "IO": {
+            "direction": "Input",
+            "name": "IO"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        },
+        "TE": {
+            "direction": "Input",
+            "name": "TE"
+        }
+    },
+    "ITS": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
         }
     },
     "LUT": {
@@ -8601,6 +9089,54 @@
         "O9": {
             "direction": "Output",
             "name": "O9"
+        }
+    },
+    "OP": {
+        "C": {
+            "direction": "Input",
+            "name": "C"
+        },
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        }
+    },
+    "OTC": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "OTP": {
+        "C": {
+            "direction": "Input",
+            "name": "C"
+        },
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "IO": {
+            "direction": "Input",
+            "name": "IO"
+        },
+        "TE": {
+            "direction": "Input",
+            "name": "TE"
+        }
+    },
+    "OTS": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
         }
     },
     "PLL": {
@@ -9366,6 +9902,18 @@
             "direction": "Input",
             "name": "SE_I"
         },
+        "calibrate": {
+            "direction": "Input",
+            "name": "calibrate"
+        },
+        "ckrefn": {
+            "direction": "Input",
+            "name": "ckrefn"
+        },
+        "ckrefp": {
+            "direction": "Input",
+            "name": "ckrefp"
+        },
         "hssl_clock_i1": {
             "direction": "Input",
             "name": "hssl_clock_i1"
@@ -9381,6 +9929,82 @@
         "hssl_clock_i4": {
             "direction": "Input",
             "name": "hssl_clock_i4"
+        },
+        "pll_ckref_in": {
+            "direction": "Input",
+            "name": "pll_ckref_in"
+        },
+        "pll_ckref_out": {
+            "direction": "Output",
+            "name": "pll_ckref_out"
+        },
+        "pma_pll_fbr_clk_ref_o": {
+            "direction": "Output",
+            "name": "pma_pll_fbr_clk_ref_o"
+        },
+        "rx0n": {
+            "direction": "Input",
+            "name": "rx0n"
+        },
+        "rx0p": {
+            "direction": "Input",
+            "name": "rx0p"
+        },
+        "rx1n": {
+            "direction": "Input",
+            "name": "rx1n"
+        },
+        "rx1p": {
+            "direction": "Input",
+            "name": "rx1p"
+        },
+        "rx2n": {
+            "direction": "Input",
+            "name": "rx2n"
+        },
+        "rx2p": {
+            "direction": "Input",
+            "name": "rx2p"
+        },
+        "rx3n": {
+            "direction": "Input",
+            "name": "rx3n"
+        },
+        "rx3p": {
+            "direction": "Input",
+            "name": "rx3p"
+        },
+        "tx0n": {
+            "direction": "Output",
+            "name": "tx0n"
+        },
+        "tx0p": {
+            "direction": "Output",
+            "name": "tx0p"
+        },
+        "tx1n": {
+            "direction": "Output",
+            "name": "tx1n"
+        },
+        "tx1p": {
+            "direction": "Output",
+            "name": "tx1p"
+        },
+        "tx2n": {
+            "direction": "Output",
+            "name": "tx2n"
+        },
+        "tx2p": {
+            "direction": "Output",
+            "name": "tx2p"
+        },
+        "tx3n": {
+            "direction": "Output",
+            "name": "tx3n"
+        },
+        "tx3p": {
+            "direction": "Output",
+            "name": "tx3p"
         }
     },
     "RAM": {
@@ -9451,6 +10075,18 @@
         "ACK": {
             "direction": "Input",
             "name": "ACK"
+        },
+        "ACKC": {
+            "direction": "Input",
+            "name": "ACKC"
+        },
+        "ACKD": {
+            "direction": "Input",
+            "name": "ACKD"
+        },
+        "ACKR": {
+            "direction": "Input",
+            "name": "ACKR"
         },
         "ACOR": {
             "direction": "Output",
@@ -9731,6 +10367,18 @@
         "BCK": {
             "direction": "Input",
             "name": "BCK"
+        },
+        "BCKC": {
+            "direction": "Input",
+            "name": "BCKC"
+        },
+        "BCKD": {
+            "direction": "Input",
+            "name": "BCKD"
+        },
+        "BCKR": {
+            "direction": "Input",
+            "name": "BCKR"
         },
         "BCOR": {
             "direction": "Output",
@@ -10143,6 +10791,254 @@
             "name": "WEA"
         }
     },
+    "RFSP": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RA1": {
+            "direction": "Input",
+            "name": "RA1"
+        },
+        "RA2": {
+            "direction": "Input",
+            "name": "RA2"
+        },
+        "RA3": {
+            "direction": "Input",
+            "name": "RA3"
+        },
+        "RA4": {
+            "direction": "Input",
+            "name": "RA4"
+        },
+        "RA5": {
+            "direction": "Input",
+            "name": "RA5"
+        },
+        "WA1": {
+            "direction": "Input",
+            "name": "WA1"
+        },
+        "WA2": {
+            "direction": "Input",
+            "name": "WA2"
+        },
+        "WA3": {
+            "direction": "Input",
+            "name": "WA3"
+        },
+        "WA4": {
+            "direction": "Input",
+            "name": "WA4"
+        },
+        "WA5": {
+            "direction": "Input",
+            "name": "WA5"
+        },
+        "WCK": {
+            "direction": "Input",
+            "name": "WCK"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
+        }
+    },
+    "SCC": {
+        "C": {
+            "direction": "Output",
+            "name": "C"
+        },
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "J": {
+            "direction": "Input",
+            "name": "J"
+        },
+        "K": {
+            "direction": "Output",
+            "name": "K"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        },
+        "P": {
+            "direction": "Output",
+            "name": "P"
+        },
+        "S": {
+            "direction": "Output",
+            "name": "S"
+        }
+    },
+    "SCI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "SCO": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
     "SEA": {
         "I1": {
             "direction": "Input",
@@ -10298,6 +11194,14 @@
             "direction": "Input",
             "name": "I14"
         },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
         "I2": {
             "direction": "Input",
             "name": "I2"
@@ -10401,16 +11305,6 @@
         "O9": {
             "direction": "Output",
             "name": "O9"
-        }
-    },
-    "SI": {
-        "I": {
-            "direction": "Input",
-            "name": "I"
-        },
-        "O": {
-            "direction": "Output",
-            "name": "O"
         }
     },
     "SIC": {
@@ -10599,16 +11493,6 @@
         "O9": {
             "direction": "Output",
             "name": "O9"
-        }
-    },
-    "SO": {
-        "I": {
-            "direction": "Input",
-            "name": "I"
-        },
-        "O": {
-            "direction": "Output",
-            "name": "O"
         }
     },
     "SOCIF": {
@@ -28253,6 +29137,16 @@
             "name": "O8"
         }
     },
+    "SSI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
     "Service": {
         "fabric_ahb_direct_data_i1": {
             "direction": "Input",
@@ -34323,6 +35217,164 @@
             "name": "fabric_user_write_cycle_o"
         }
     },
+    "TCI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "TCO": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "TDE": {
+        "ADRSTI": {
+            "direction": "Input",
+            "name": "ADRSTI"
+        },
+        "ADRSTO": {
+            "direction": "Output",
+            "name": "ADRSTO"
+        },
+        "AI1": {
+            "direction": "Input",
+            "name": "AI1"
+        },
+        "AI2": {
+            "direction": "Input",
+            "name": "AI2"
+        },
+        "AI3": {
+            "direction": "Input",
+            "name": "AI3"
+        },
+        "AI4": {
+            "direction": "Input",
+            "name": "AI4"
+        },
+        "AI5": {
+            "direction": "Input",
+            "name": "AI5"
+        },
+        "AI6": {
+            "direction": "Input",
+            "name": "AI6"
+        },
+        "AO1": {
+            "direction": "Output",
+            "name": "AO1"
+        },
+        "AO2": {
+            "direction": "Output",
+            "name": "AO2"
+        },
+        "AO3": {
+            "direction": "Output",
+            "name": "AO3"
+        },
+        "AO4": {
+            "direction": "Output",
+            "name": "AO4"
+        },
+        "AO5": {
+            "direction": "Output",
+            "name": "AO5"
+        },
+        "AO6": {
+            "direction": "Output",
+            "name": "AO6"
+        },
+        "ASRSTI": {
+            "direction": "Input",
+            "name": "ASRSTI"
+        },
+        "ASRSTO": {
+            "direction": "Output",
+            "name": "ASRSTO"
+        },
+        "BDRSTI": {
+            "direction": "Input",
+            "name": "BDRSTI"
+        },
+        "BDRSTO": {
+            "direction": "Output",
+            "name": "BDRSTO"
+        },
+        "BI1": {
+            "direction": "Input",
+            "name": "BI1"
+        },
+        "BI2": {
+            "direction": "Input",
+            "name": "BI2"
+        },
+        "BI3": {
+            "direction": "Input",
+            "name": "BI3"
+        },
+        "BI4": {
+            "direction": "Input",
+            "name": "BI4"
+        },
+        "BI5": {
+            "direction": "Input",
+            "name": "BI5"
+        },
+        "BI6": {
+            "direction": "Input",
+            "name": "BI6"
+        },
+        "BO1": {
+            "direction": "Output",
+            "name": "BO1"
+        },
+        "BO2": {
+            "direction": "Output",
+            "name": "BO2"
+        },
+        "BO3": {
+            "direction": "Output",
+            "name": "BO3"
+        },
+        "BO4": {
+            "direction": "Output",
+            "name": "BO4"
+        },
+        "BO5": {
+            "direction": "Output",
+            "name": "BO5"
+        },
+        "BO6": {
+            "direction": "Output",
+            "name": "BO6"
+        },
+        "BSRSTI": {
+            "direction": "Input",
+            "name": "BSRSTI"
+        },
+        "BSRSTO": {
+            "direction": "Output",
+            "name": "BSRSTO"
+        },
+        "CK1": {
+            "direction": "Input",
+            "name": "CK1"
+        },
+        "CK2": {
+            "direction": "Input",
+            "name": "CK2"
+        }
+    },
     "TEA": {
         "I1": {
             "direction": "Input",
@@ -34461,6 +35513,14 @@
         "I14": {
             "direction": "Input",
             "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
         },
         "I2": {
             "direction": "Input",
@@ -35068,6 +36128,10 @@
             "direction": "Output",
             "name": "O29"
         },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
         "O30": {
             "direction": "Output",
             "name": "O30"
@@ -35308,6 +36372,10 @@
             "direction": "Output",
             "name": "O84"
         },
+        "O85": {
+            "direction": "Output",
+            "name": "O85"
+        },
         "O86": {
             "direction": "Output",
             "name": "O86"
@@ -35455,6 +36523,26 @@
         "O8": {
             "direction": "Output",
             "name": "O8"
+        }
+    },
+    "TSI": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
+        }
+    },
+    "TSO": {
+        "I": {
+            "direction": "Input",
+            "name": "I"
+        },
+        "O": {
+            "direction": "Output",
+            "name": "O"
         }
     },
     "TSS": {
@@ -35779,17 +36867,7 @@
             "name": "O4"
         }
     },
-    "UI": {
-        "I": {
-            "direction": "Input",
-            "name": "I"
-        },
-        "O": {
-            "direction": "Output",
-            "name": "O"
-        }
-    },
-    "UO": {
+    "WFB": {
         "I": {
             "direction": "Input",
             "name": "I"
@@ -36464,6 +37542,344 @@
             "direction": "Input",
             "name": "RRSTI4"
         },
+        "RRSTO": {
+            "direction": "Output",
+            "name": "RRSTO"
+        },
+        "WAI1": {
+            "direction": "Input",
+            "name": "WAI1"
+        },
+        "WAI2": {
+            "direction": "Input",
+            "name": "WAI2"
+        },
+        "WAI3": {
+            "direction": "Input",
+            "name": "WAI3"
+        },
+        "WAI4": {
+            "direction": "Input",
+            "name": "WAI4"
+        },
+        "WAI5": {
+            "direction": "Input",
+            "name": "WAI5"
+        },
+        "WAI6": {
+            "direction": "Input",
+            "name": "WAI6"
+        },
+        "WAI7": {
+            "direction": "Input",
+            "name": "WAI7"
+        },
+        "WAO1": {
+            "direction": "Output",
+            "name": "WAO1"
+        },
+        "WAO2": {
+            "direction": "Output",
+            "name": "WAO2"
+        },
+        "WAO3": {
+            "direction": "Output",
+            "name": "WAO3"
+        },
+        "WAO4": {
+            "direction": "Output",
+            "name": "WAO4"
+        },
+        "WAO5": {
+            "direction": "Output",
+            "name": "WAO5"
+        },
+        "WAO6": {
+            "direction": "Output",
+            "name": "WAO6"
+        },
+        "WAO7": {
+            "direction": "Output",
+            "name": "WAO7"
+        },
+        "WCK1": {
+            "direction": "Input",
+            "name": "WCK1"
+        },
+        "WCK2": {
+            "direction": "Input",
+            "name": "WCK2"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
+        },
+        "WEQ1": {
+            "direction": "Output",
+            "name": "WEQ1"
+        },
+        "WEQ2": {
+            "direction": "Output",
+            "name": "WEQ2"
+        },
+        "WRSTI1": {
+            "direction": "Input",
+            "name": "WRSTI1"
+        },
+        "WRSTI2": {
+            "direction": "Input",
+            "name": "WRSTI2"
+        },
+        "WRSTI3": {
+            "direction": "Input",
+            "name": "WRSTI3"
+        },
+        "WRSTI4": {
+            "direction": "Input",
+            "name": "WRSTI4"
+        },
+        "WRSTO": {
+            "direction": "Output",
+            "name": "WRSTO"
+        }
+    },
+    "XHFIFO": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RAI1": {
+            "direction": "Input",
+            "name": "RAI1"
+        },
+        "RAI2": {
+            "direction": "Input",
+            "name": "RAI2"
+        },
+        "RAI3": {
+            "direction": "Input",
+            "name": "RAI3"
+        },
+        "RAI4": {
+            "direction": "Input",
+            "name": "RAI4"
+        },
+        "RAI5": {
+            "direction": "Input",
+            "name": "RAI5"
+        },
+        "RAI6": {
+            "direction": "Input",
+            "name": "RAI6"
+        },
+        "RAI7": {
+            "direction": "Input",
+            "name": "RAI7"
+        },
+        "RAO1": {
+            "direction": "Output",
+            "name": "RAO1"
+        },
+        "RAO2": {
+            "direction": "Output",
+            "name": "RAO2"
+        },
+        "RAO3": {
+            "direction": "Output",
+            "name": "RAO3"
+        },
+        "RAO4": {
+            "direction": "Output",
+            "name": "RAO4"
+        },
+        "RAO5": {
+            "direction": "Output",
+            "name": "RAO5"
+        },
+        "RAO6": {
+            "direction": "Output",
+            "name": "RAO6"
+        },
+        "RAO7": {
+            "direction": "Output",
+            "name": "RAO7"
+        },
+        "RCK1": {
+            "direction": "Input",
+            "name": "RCK1"
+        },
+        "RCK2": {
+            "direction": "Input",
+            "name": "RCK2"
+        },
+        "REQ1": {
+            "direction": "Output",
+            "name": "REQ1"
+        },
+        "REQ2": {
+            "direction": "Output",
+            "name": "REQ2"
+        },
+        "RRSTI1": {
+            "direction": "Input",
+            "name": "RRSTI1"
+        },
+        "RRSTI2": {
+            "direction": "Input",
+            "name": "RRSTI2"
+        },
+        "RRSTI3": {
+            "direction": "Input",
+            "name": "RRSTI3"
+        },
+        "RRSTI4": {
+            "direction": "Input",
+            "name": "RRSTI4"
+        },
         "WAI1": {
             "direction": "Input",
             "name": "WAI1"
@@ -36561,6 +37977,216 @@
             "name": "WRSTI4"
         }
     },
+    "XHRF": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RA1": {
+            "direction": "Input",
+            "name": "RA1"
+        },
+        "RA2": {
+            "direction": "Input",
+            "name": "RA2"
+        },
+        "RA3": {
+            "direction": "Input",
+            "name": "RA3"
+        },
+        "RA4": {
+            "direction": "Input",
+            "name": "RA4"
+        },
+        "RA5": {
+            "direction": "Input",
+            "name": "RA5"
+        },
+        "RA6": {
+            "direction": "Input",
+            "name": "RA6"
+        },
+        "WA1": {
+            "direction": "Input",
+            "name": "WA1"
+        },
+        "WA2": {
+            "direction": "Input",
+            "name": "WA2"
+        },
+        "WA3": {
+            "direction": "Input",
+            "name": "WA3"
+        },
+        "WA4": {
+            "direction": "Input",
+            "name": "WA4"
+        },
+        "WA5": {
+            "direction": "Input",
+            "name": "WA5"
+        },
+        "WA6": {
+            "direction": "Input",
+            "name": "WA6"
+        },
+        "WCK1": {
+            "direction": "Input",
+            "name": "WCK1"
+        },
+        "WCK2": {
+            "direction": "Input",
+            "name": "WCK2"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
+        }
+    },
     "XLUT": {
         "G1": {
             "direction": "Output",
@@ -36601,6 +38227,300 @@
         "O": {
             "direction": "Output",
             "name": "O"
+        }
+    },
+    "XPRF": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O19": {
+            "direction": "Output",
+            "name": "O19"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O20": {
+            "direction": "Output",
+            "name": "O20"
+        },
+        "O21": {
+            "direction": "Output",
+            "name": "O21"
+        },
+        "O22": {
+            "direction": "Output",
+            "name": "O22"
+        },
+        "O23": {
+            "direction": "Output",
+            "name": "O23"
+        },
+        "O24": {
+            "direction": "Output",
+            "name": "O24"
+        },
+        "O25": {
+            "direction": "Output",
+            "name": "O25"
+        },
+        "O26": {
+            "direction": "Output",
+            "name": "O26"
+        },
+        "O27": {
+            "direction": "Output",
+            "name": "O27"
+        },
+        "O28": {
+            "direction": "Output",
+            "name": "O28"
+        },
+        "O29": {
+            "direction": "Output",
+            "name": "O29"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O30": {
+            "direction": "Output",
+            "name": "O30"
+        },
+        "O31": {
+            "direction": "Output",
+            "name": "O31"
+        },
+        "O32": {
+            "direction": "Output",
+            "name": "O32"
+        },
+        "O33": {
+            "direction": "Output",
+            "name": "O33"
+        },
+        "O34": {
+            "direction": "Output",
+            "name": "O34"
+        },
+        "O35": {
+            "direction": "Output",
+            "name": "O35"
+        },
+        "O36": {
+            "direction": "Output",
+            "name": "O36"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RA1": {
+            "direction": "Input",
+            "name": "RA1"
+        },
+        "RA10": {
+            "direction": "Input",
+            "name": "RA10"
+        },
+        "RA2": {
+            "direction": "Input",
+            "name": "RA2"
+        },
+        "RA3": {
+            "direction": "Input",
+            "name": "RA3"
+        },
+        "RA4": {
+            "direction": "Input",
+            "name": "RA4"
+        },
+        "RA5": {
+            "direction": "Input",
+            "name": "RA5"
+        },
+        "RA6": {
+            "direction": "Input",
+            "name": "RA6"
+        },
+        "RA7": {
+            "direction": "Input",
+            "name": "RA7"
+        },
+        "RA8": {
+            "direction": "Input",
+            "name": "RA8"
+        },
+        "RA9": {
+            "direction": "Input",
+            "name": "RA9"
+        },
+        "WA1": {
+            "direction": "Input",
+            "name": "WA1"
+        },
+        "WA2": {
+            "direction": "Input",
+            "name": "WA2"
+        },
+        "WA3": {
+            "direction": "Input",
+            "name": "WA3"
+        },
+        "WA4": {
+            "direction": "Input",
+            "name": "WA4"
+        },
+        "WA5": {
+            "direction": "Input",
+            "name": "WA5"
+        },
+        "WCK1": {
+            "direction": "Input",
+            "name": "WCK1"
+        },
+        "WCK2": {
+            "direction": "Input",
+            "name": "WCK2"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
         }
     },
     "XRF": {
@@ -36955,6 +38875,786 @@
         "WA6": {
             "direction": "Input",
             "name": "WA6"
+        },
+        "WCK1": {
+            "direction": "Input",
+            "name": "WCK1"
+        },
+        "WCK2": {
+            "direction": "Input",
+            "name": "WCK2"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
+        }
+    },
+    "XWFIFO": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I19": {
+            "direction": "Input",
+            "name": "I19"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I20": {
+            "direction": "Input",
+            "name": "I20"
+        },
+        "I21": {
+            "direction": "Input",
+            "name": "I21"
+        },
+        "I22": {
+            "direction": "Input",
+            "name": "I22"
+        },
+        "I23": {
+            "direction": "Input",
+            "name": "I23"
+        },
+        "I24": {
+            "direction": "Input",
+            "name": "I24"
+        },
+        "I25": {
+            "direction": "Input",
+            "name": "I25"
+        },
+        "I26": {
+            "direction": "Input",
+            "name": "I26"
+        },
+        "I27": {
+            "direction": "Input",
+            "name": "I27"
+        },
+        "I28": {
+            "direction": "Input",
+            "name": "I28"
+        },
+        "I29": {
+            "direction": "Input",
+            "name": "I29"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I30": {
+            "direction": "Input",
+            "name": "I30"
+        },
+        "I31": {
+            "direction": "Input",
+            "name": "I31"
+        },
+        "I32": {
+            "direction": "Input",
+            "name": "I32"
+        },
+        "I33": {
+            "direction": "Input",
+            "name": "I33"
+        },
+        "I34": {
+            "direction": "Input",
+            "name": "I34"
+        },
+        "I35": {
+            "direction": "Input",
+            "name": "I35"
+        },
+        "I36": {
+            "direction": "Input",
+            "name": "I36"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O19": {
+            "direction": "Output",
+            "name": "O19"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O20": {
+            "direction": "Output",
+            "name": "O20"
+        },
+        "O21": {
+            "direction": "Output",
+            "name": "O21"
+        },
+        "O22": {
+            "direction": "Output",
+            "name": "O22"
+        },
+        "O23": {
+            "direction": "Output",
+            "name": "O23"
+        },
+        "O24": {
+            "direction": "Output",
+            "name": "O24"
+        },
+        "O25": {
+            "direction": "Output",
+            "name": "O25"
+        },
+        "O26": {
+            "direction": "Output",
+            "name": "O26"
+        },
+        "O27": {
+            "direction": "Output",
+            "name": "O27"
+        },
+        "O28": {
+            "direction": "Output",
+            "name": "O28"
+        },
+        "O29": {
+            "direction": "Output",
+            "name": "O29"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O30": {
+            "direction": "Output",
+            "name": "O30"
+        },
+        "O31": {
+            "direction": "Output",
+            "name": "O31"
+        },
+        "O32": {
+            "direction": "Output",
+            "name": "O32"
+        },
+        "O33": {
+            "direction": "Output",
+            "name": "O33"
+        },
+        "O34": {
+            "direction": "Output",
+            "name": "O34"
+        },
+        "O35": {
+            "direction": "Output",
+            "name": "O35"
+        },
+        "O36": {
+            "direction": "Output",
+            "name": "O36"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RAI1": {
+            "direction": "Input",
+            "name": "RAI1"
+        },
+        "RAI2": {
+            "direction": "Input",
+            "name": "RAI2"
+        },
+        "RAI3": {
+            "direction": "Input",
+            "name": "RAI3"
+        },
+        "RAI4": {
+            "direction": "Input",
+            "name": "RAI4"
+        },
+        "RAI5": {
+            "direction": "Input",
+            "name": "RAI5"
+        },
+        "RAI6": {
+            "direction": "Input",
+            "name": "RAI6"
+        },
+        "RAO1": {
+            "direction": "Output",
+            "name": "RAO1"
+        },
+        "RAO2": {
+            "direction": "Output",
+            "name": "RAO2"
+        },
+        "RAO3": {
+            "direction": "Output",
+            "name": "RAO3"
+        },
+        "RAO4": {
+            "direction": "Output",
+            "name": "RAO4"
+        },
+        "RAO5": {
+            "direction": "Output",
+            "name": "RAO5"
+        },
+        "RAO6": {
+            "direction": "Output",
+            "name": "RAO6"
+        },
+        "RCK1": {
+            "direction": "Input",
+            "name": "RCK1"
+        },
+        "RCK2": {
+            "direction": "Input",
+            "name": "RCK2"
+        },
+        "REQ": {
+            "direction": "Output",
+            "name": "REQ"
+        },
+        "RRSTI1": {
+            "direction": "Input",
+            "name": "RRSTI1"
+        },
+        "RRSTI2": {
+            "direction": "Input",
+            "name": "RRSTI2"
+        },
+        "WAI1": {
+            "direction": "Input",
+            "name": "WAI1"
+        },
+        "WAI2": {
+            "direction": "Input",
+            "name": "WAI2"
+        },
+        "WAI3": {
+            "direction": "Input",
+            "name": "WAI3"
+        },
+        "WAI4": {
+            "direction": "Input",
+            "name": "WAI4"
+        },
+        "WAI5": {
+            "direction": "Input",
+            "name": "WAI5"
+        },
+        "WAI6": {
+            "direction": "Input",
+            "name": "WAI6"
+        },
+        "WAO1": {
+            "direction": "Output",
+            "name": "WAO1"
+        },
+        "WAO2": {
+            "direction": "Output",
+            "name": "WAO2"
+        },
+        "WAO3": {
+            "direction": "Output",
+            "name": "WAO3"
+        },
+        "WAO4": {
+            "direction": "Output",
+            "name": "WAO4"
+        },
+        "WAO5": {
+            "direction": "Output",
+            "name": "WAO5"
+        },
+        "WAO6": {
+            "direction": "Output",
+            "name": "WAO6"
+        },
+        "WCK1": {
+            "direction": "Input",
+            "name": "WCK1"
+        },
+        "WCK2": {
+            "direction": "Input",
+            "name": "WCK2"
+        },
+        "WE": {
+            "direction": "Input",
+            "name": "WE"
+        },
+        "WEA": {
+            "direction": "Input",
+            "name": "WEA"
+        },
+        "WEQ": {
+            "direction": "Output",
+            "name": "WEQ"
+        },
+        "WRSTI1": {
+            "direction": "Input",
+            "name": "WRSTI1"
+        },
+        "WRSTI2": {
+            "direction": "Input",
+            "name": "WRSTI2"
+        }
+    },
+    "XWRF": {
+        "I1": {
+            "direction": "Input",
+            "name": "I1"
+        },
+        "I10": {
+            "direction": "Input",
+            "name": "I10"
+        },
+        "I11": {
+            "direction": "Input",
+            "name": "I11"
+        },
+        "I12": {
+            "direction": "Input",
+            "name": "I12"
+        },
+        "I13": {
+            "direction": "Input",
+            "name": "I13"
+        },
+        "I14": {
+            "direction": "Input",
+            "name": "I14"
+        },
+        "I15": {
+            "direction": "Input",
+            "name": "I15"
+        },
+        "I16": {
+            "direction": "Input",
+            "name": "I16"
+        },
+        "I17": {
+            "direction": "Input",
+            "name": "I17"
+        },
+        "I18": {
+            "direction": "Input",
+            "name": "I18"
+        },
+        "I19": {
+            "direction": "Input",
+            "name": "I19"
+        },
+        "I2": {
+            "direction": "Input",
+            "name": "I2"
+        },
+        "I20": {
+            "direction": "Input",
+            "name": "I20"
+        },
+        "I21": {
+            "direction": "Input",
+            "name": "I21"
+        },
+        "I22": {
+            "direction": "Input",
+            "name": "I22"
+        },
+        "I23": {
+            "direction": "Input",
+            "name": "I23"
+        },
+        "I24": {
+            "direction": "Input",
+            "name": "I24"
+        },
+        "I25": {
+            "direction": "Input",
+            "name": "I25"
+        },
+        "I26": {
+            "direction": "Input",
+            "name": "I26"
+        },
+        "I27": {
+            "direction": "Input",
+            "name": "I27"
+        },
+        "I28": {
+            "direction": "Input",
+            "name": "I28"
+        },
+        "I29": {
+            "direction": "Input",
+            "name": "I29"
+        },
+        "I3": {
+            "direction": "Input",
+            "name": "I3"
+        },
+        "I30": {
+            "direction": "Input",
+            "name": "I30"
+        },
+        "I31": {
+            "direction": "Input",
+            "name": "I31"
+        },
+        "I32": {
+            "direction": "Input",
+            "name": "I32"
+        },
+        "I33": {
+            "direction": "Input",
+            "name": "I33"
+        },
+        "I34": {
+            "direction": "Input",
+            "name": "I34"
+        },
+        "I35": {
+            "direction": "Input",
+            "name": "I35"
+        },
+        "I36": {
+            "direction": "Input",
+            "name": "I36"
+        },
+        "I4": {
+            "direction": "Input",
+            "name": "I4"
+        },
+        "I5": {
+            "direction": "Input",
+            "name": "I5"
+        },
+        "I6": {
+            "direction": "Input",
+            "name": "I6"
+        },
+        "I7": {
+            "direction": "Input",
+            "name": "I7"
+        },
+        "I8": {
+            "direction": "Input",
+            "name": "I8"
+        },
+        "I9": {
+            "direction": "Input",
+            "name": "I9"
+        },
+        "O1": {
+            "direction": "Output",
+            "name": "O1"
+        },
+        "O10": {
+            "direction": "Output",
+            "name": "O10"
+        },
+        "O11": {
+            "direction": "Output",
+            "name": "O11"
+        },
+        "O12": {
+            "direction": "Output",
+            "name": "O12"
+        },
+        "O13": {
+            "direction": "Output",
+            "name": "O13"
+        },
+        "O14": {
+            "direction": "Output",
+            "name": "O14"
+        },
+        "O15": {
+            "direction": "Output",
+            "name": "O15"
+        },
+        "O16": {
+            "direction": "Output",
+            "name": "O16"
+        },
+        "O17": {
+            "direction": "Output",
+            "name": "O17"
+        },
+        "O18": {
+            "direction": "Output",
+            "name": "O18"
+        },
+        "O19": {
+            "direction": "Output",
+            "name": "O19"
+        },
+        "O2": {
+            "direction": "Output",
+            "name": "O2"
+        },
+        "O20": {
+            "direction": "Output",
+            "name": "O20"
+        },
+        "O21": {
+            "direction": "Output",
+            "name": "O21"
+        },
+        "O22": {
+            "direction": "Output",
+            "name": "O22"
+        },
+        "O23": {
+            "direction": "Output",
+            "name": "O23"
+        },
+        "O24": {
+            "direction": "Output",
+            "name": "O24"
+        },
+        "O25": {
+            "direction": "Output",
+            "name": "O25"
+        },
+        "O26": {
+            "direction": "Output",
+            "name": "O26"
+        },
+        "O27": {
+            "direction": "Output",
+            "name": "O27"
+        },
+        "O28": {
+            "direction": "Output",
+            "name": "O28"
+        },
+        "O29": {
+            "direction": "Output",
+            "name": "O29"
+        },
+        "O3": {
+            "direction": "Output",
+            "name": "O3"
+        },
+        "O30": {
+            "direction": "Output",
+            "name": "O30"
+        },
+        "O31": {
+            "direction": "Output",
+            "name": "O31"
+        },
+        "O32": {
+            "direction": "Output",
+            "name": "O32"
+        },
+        "O33": {
+            "direction": "Output",
+            "name": "O33"
+        },
+        "O34": {
+            "direction": "Output",
+            "name": "O34"
+        },
+        "O35": {
+            "direction": "Output",
+            "name": "O35"
+        },
+        "O36": {
+            "direction": "Output",
+            "name": "O36"
+        },
+        "O4": {
+            "direction": "Output",
+            "name": "O4"
+        },
+        "O5": {
+            "direction": "Output",
+            "name": "O5"
+        },
+        "O6": {
+            "direction": "Output",
+            "name": "O6"
+        },
+        "O7": {
+            "direction": "Output",
+            "name": "O7"
+        },
+        "O8": {
+            "direction": "Output",
+            "name": "O8"
+        },
+        "O9": {
+            "direction": "Output",
+            "name": "O9"
+        },
+        "RA1": {
+            "direction": "Input",
+            "name": "RA1"
+        },
+        "RA2": {
+            "direction": "Input",
+            "name": "RA2"
+        },
+        "RA3": {
+            "direction": "Input",
+            "name": "RA3"
+        },
+        "RA4": {
+            "direction": "Input",
+            "name": "RA4"
+        },
+        "RA5": {
+            "direction": "Input",
+            "name": "RA5"
+        },
+        "WA1": {
+            "direction": "Input",
+            "name": "WA1"
+        },
+        "WA2": {
+            "direction": "Input",
+            "name": "WA2"
+        },
+        "WA3": {
+            "direction": "Input",
+            "name": "WA3"
+        },
+        "WA4": {
+            "direction": "Input",
+            "name": "WA4"
+        },
+        "WA5": {
+            "direction": "Input",
+            "name": "WA5"
         },
         "WCK1": {
             "direction": "Input",
