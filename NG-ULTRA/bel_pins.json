@@ -23380,21 +23380,21 @@
             "direction": "Output",
             "name": "fabric_llpp1_arprot_s_o3"
         },
-        "fabric_llpp1_arqos_s1_o1": {
+        "fabric_llpp1_arqos_s_o1": {
             "direction": "Output",
-            "name": "fabric_llpp1_arqos_s1_o1"
+            "name": "fabric_llpp1_arqos_s_o1"
         },
-        "fabric_llpp1_arqos_s1_o2": {
+        "fabric_llpp1_arqos_s_o2": {
             "direction": "Output",
-            "name": "fabric_llpp1_arqos_s1_o2"
+            "name": "fabric_llpp1_arqos_s_o2"
         },
-        "fabric_llpp1_arqos_s1_o3": {
+        "fabric_llpp1_arqos_s_o3": {
             "direction": "Output",
-            "name": "fabric_llpp1_arqos_s1_o3"
+            "name": "fabric_llpp1_arqos_s_o3"
         },
-        "fabric_llpp1_arqos_s1_o4": {
+        "fabric_llpp1_arqos_s_o4": {
             "direction": "Output",
-            "name": "fabric_llpp1_arqos_s1_o4"
+            "name": "fabric_llpp1_arqos_s_o4"
         },
         "fabric_llpp1_arready_s_i": {
             "direction": "Input",
