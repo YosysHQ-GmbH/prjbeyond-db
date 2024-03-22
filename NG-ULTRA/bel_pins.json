@@ -36868,24 +36868,16 @@
         }
     },
     "WFB": {
-        "I": {
+        "ZI": {
             "direction": "Input",
-            "name": "I"
+            "name": "ZI"
         },
-        "O": {
+        "ZO": {
             "direction": "Output",
-            "name": "O"
+            "name": "ZO"
         }
     },
     "WFG": {
-        "I": {
-            "direction": "Input",
-            "name": "I"
-        },
-        "O": {
-            "direction": "Output",
-            "name": "O"
-        },
         "R": {
             "direction": "Input",
             "name": "R"
@@ -36897,6 +36889,14 @@
         "SO": {
             "direction": "Output",
             "name": "SO"
+        },
+        "ZI": {
+            "direction": "Input",
+            "name": "ZI"
+        },
+        "ZO": {
+            "direction": "Output",
+            "name": "ZO"
         }
     },
     "XCDC": {
