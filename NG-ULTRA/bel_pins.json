@@ -8614,9 +8614,9 @@
             "direction": "Output",
             "name": "O"
         },
-        "TE": {
+        "T": {
             "direction": "Input",
-            "name": "TE"
+            "name": "T"
         }
     },
     "IP": {
@@ -8652,9 +8652,9 @@
             "direction": "Output",
             "name": "O"
         },
-        "TE": {
+        "T": {
             "direction": "Input",
-            "name": "TE"
+            "name": "T"
         }
     },
     "ITS": {
@@ -9124,9 +9124,9 @@
             "direction": "Input",
             "name": "IO"
         },
-        "TE": {
+        "T": {
             "direction": "Input",
-            "name": "TE"
+            "name": "T"
         }
     },
     "OTS": {
